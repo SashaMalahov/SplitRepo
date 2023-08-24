@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9XgXJhNuOGajopbDikbFaojJBzloXK7FKjzt4wHyGKMHg1606A55O0t1wlJLyDSjk7cARYRXDKqBEsQfX5beQA==",
+  "success": true,
+  "projectFilePath": "D:\\Test Projects\\SplitRepo\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aliaksandr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Aliaksandr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Aliaksandr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Aliaksandr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
